@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "PSAP",
+    "routable",
+    "Subnetting",
+    "Andon cord"
+  ],
+  "promptDelete": false,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "/"
+}
