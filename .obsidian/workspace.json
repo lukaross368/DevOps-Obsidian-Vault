@@ -6,7 +6,6 @@
       {
         "id": "b1761ad681d50582",
         "type": "tabs",
-        "dimension": 52.518427518427515,
         "children": [
           {
             "id": "655404a193f30fc7",
@@ -19,36 +18,22 @@
         ]
       },
       {
-        "id": "d641fe3c477d9d2e",
+        "id": "af068a44757c2fdb",
         "type": "tabs",
-        "dimension": 47.481572481572485,
         "children": [
           {
-            "id": "3657bb245b6ad3e8",
+            "id": "1894567db3fe7091",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/MiniKube and Kubectl Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20d36e8e09e7b782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/YAML Configuration For Kubernetes.md",
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/YAML Configuration For Kubernetes.md",
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/YAML Configuration For Kubernetes.md",
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/YAML Configuration For Kubernetes.md"
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md"
               }
             }
           }
@@ -194,11 +179,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "20d36e8e09e7b782",
+  "active": "1894567db3fe7091",
   "lastOpenFiles": [
-    "README.md",
-    "DevOps/Container Orchestration/Kubernetes/YAML Configuration For Kubernetes.md",
     "DevOps/Container Orchestration/Kubernetes/MiniKube and Kubectl Commands.md",
+    "DevOps/Container Orchestration/Kubernetes/YAML Configuration For Kubernetes.md",
+    "README.md",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
     "DevOps/CI CD/CI CD.md",
     "DevOps/CI CD/Continuous Integration",
