@@ -6,6 +6,7 @@
       {
         "id": "b1761ad681d50582",
         "type": "tabs",
+        "dimension": 54.97542997542998,
         "children": [
           {
             "id": "655404a193f30fc7",
@@ -20,6 +21,7 @@
       {
         "id": "af068a44757c2fdb",
         "type": "tabs",
+        "dimension": 45.024570024570025,
         "children": [
           {
             "id": "1894567db3fe7091",
@@ -32,8 +34,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e32d7c7beb9396c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "K8s Ingress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -179,13 +190,29 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1894567db3fe7091",
+  "active": "655404a193f30fc7",
   "lastOpenFiles": [
-    "DevOps/Container Orchestration/Kubernetes/MiniKube and Kubectl Commands.md",
-    "DevOps/Container Orchestration/Kubernetes/YAML Configuration For Kubernetes.md",
-    "README.md",
+    "K8s Ingress.md",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
+    "DevOps/Container Orchestration/Kubernetes/Namespaces/K8s Namespaces.md",
+    "DevOps/Container Orchestration/Kubernetes/Introduction to Kubernetes.md",
+    "DevOps/Container Orchestration/Kubernetes/Components/Main k8s Components.md",
+    "DevOps/Container Orchestration/Kubernetes/Kubectl",
+    "DevOps/Container Orchestration/Kubernetes/Components",
+    "DevOps/Container Orchestration/Kubernetes/Kubectl/MiniKube and Kubectl Commands.md",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/Kubernetes Architecture.md",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/example-k8s-setup.png",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/k8s.png",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture",
+    "DevOps/Container Orchestration/Kubernetes/Configuration Files/YAML Configuration For Kubernetes.md",
+    "DevOps/Container Orchestration/Kubernetes/Namespaces/kubens.png",
+    "DevOps/Container Orchestration/Kubernetes/Configuration Files",
+    "DevOps/Container Orchestration/Kubernetes/Namespaces/sharedresources.png",
+    "DevOps/Container Orchestration/Kubernetes/Namespaces",
+    "DevOps/CI CD/Deployment Strategies",
+    "DevOps/CI CD/Deployment Strategies/Deployment Strategies.md",
     "DevOps/CI CD/CI CD.md",
+    "README.md",
     "DevOps/CI CD/Continuous Integration",
     "DevOps/CI CD/Continuous Integration/Continuous Integration.md",
     "DevOps/Software Engineering Practices/Software Engineering Practices.md",
@@ -195,15 +222,9 @@
     "DevOps/System Design/Databases/Databases.md",
     "DevOps/System Design/Databases/NON-SQL/Mongo.md",
     "DevOps/DevOps.md",
-    "DevOps/Container Orchestration/Kubernetes/Main k8s Components.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture.md",
     "DevOps/Language/Language.md",
     "DevOps/Language/Python/Python Framworks/Django/Django.md",
     "DevOps/Language/Python/Python Framworks/Python Frameworks.md",
-    "DevOps/Language/Python/Python Framworks/Django",
-    "DevOps/Language/Python/Python Framworks",
-    "DevOps/Container Orchestration/Kubernetes/example-k8s-setup.png",
-    "DevOps/Container Orchestration/Kubernetes/Introduction to Kubernetes.md",
     "DevOps/Cloud Providers/AWS/AWS Services/Route 53.md",
     "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC.md",
     "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC Endpoints.md",
@@ -211,22 +232,12 @@
     "DevOps/Cloud Providers/AWS/AWS Networking/VPC/Transit Gateways.md",
     "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC Peering.md",
     "DevOps/Cloud Providers/AWS/AWS Networking/VPC/AWS Subnet.md",
-    "DevOps/Networking/Networking.md",
-    "DevOps/Networking/Networking Topologies/Firewalls/Firewalls.md",
-    "DevOps/DevOps Handbook Notes/Ideas of processes to implement/Ideas of processes to implement.md",
-    "DevOps/Container Orchestration/Kubernetes",
-    "DevOps/Container Orchestration/Kubernetes/k8s.png",
-    "DevOps/Infrastructure as a code/Terraform",
-    "DevOps/System Design/Databases",
-    "DevOps/System Design/CAP Theorem",
     "Untitled.canvas",
     "DevOps/Networking/Networking Topologies/Firewalls/ACL.png",
     "Pasted image 20230720113133.png",
     "DevOps/Cloud Providers/AWS/AWS Networking/VPC/NACL/NACL example.png",
     "DevOps/Networking/Networking Protocols/IP/IP addresses/IPV4/InternalIPClasses.png",
     "DevOps/Networking/Networking Protocols/IP/IP addresses/IPV4/PublicVsPrivateIP-003.png",
-    "DevOps/Networking/Networking Protocols/IP/IP addresses/IPV4/PublicVsPrivateIP-002.png",
-    "DevOps/Networking/Networking Protocols/IP/IP addresses/IPV4/PublicVsPrivateIP-001.png",
-    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC - controlling access.png"
+    "DevOps/Networking/Networking Protocols/IP/IP addresses/IPV4/PublicVsPrivateIP-002.png"
   ]
 }
