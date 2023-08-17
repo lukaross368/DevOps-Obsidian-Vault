@@ -111,3 +111,6 @@ save this file with a .yaml file extension
 - Also `kubectl apply` doesn't just work with deployments ! It works with other k8s resources such as volumes, services and so on. Just Change the config file accordingly.  
 
 For a more in-depth explanation of these config files see [[YAML Configuration For Kubernetes]]
+
+
+
