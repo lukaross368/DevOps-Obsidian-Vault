@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s Ingress.md",
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress/K8s Ingress.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress/K8s Ingress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress/K8s Ingress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress/K8s Ingress.md"
+              }
             }
           }
         ],
@@ -190,9 +194,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "655404a193f30fc7",
+  "active": "0852c2d0d9b2d7be",
   "lastOpenFiles": [
-    "K8s Ingress.md",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress/K8s Ingress.md",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
     "DevOps/Container Orchestration/Kubernetes/Namespaces/K8s Namespaces.md",
     "DevOps/Container Orchestration/Kubernetes/Introduction to Kubernetes.md",
@@ -231,7 +236,6 @@
     "DevOps/Cloud Providers/AWS/AWS Services/AWS Services.md",
     "DevOps/Cloud Providers/AWS/AWS Networking/VPC/Transit Gateways.md",
     "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC Peering.md",
-    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/AWS Subnet.md",
     "Untitled.canvas",
     "DevOps/Networking/Networking Topologies/Firewalls/ACL.png",
     "Pasted image 20230720113133.png",
