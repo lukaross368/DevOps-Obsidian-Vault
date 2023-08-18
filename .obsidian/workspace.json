@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c135e2f292303cd5",
+            "id": "f17477d89f72d0e8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,6 +16,37 @@
             }
           }
         ]
+      },
+      {
+        "id": "62eea774ae84c9f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2132519dacd45d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c06cce7ab17346d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes/K8s Volumes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes/K8s Volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes/K8s Volumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes/K8s Volumes.md"
+              }
             }
           }
         ],
@@ -157,48 +192,48 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c135e2f292303cd5",
+  "active": "0c06cce7ab17346d",
   "lastOpenFiles": [
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress/K8s Ingress.md",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/Kubernetes Architecture.md",
+    "DevOps/Container Orchestration/Kubernetes/Configuration Files/YAML Configuration For Kubernetes.md",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes/K8s Volumes.md",
+    "DevOps/Container Orchestration/Kubernetes/Introduction to Kubernetes.md",
+    "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes",
+    "DevOps/System Design/Databases/Databases.md",
+    "DevOps/Container Orchestration/Kubernetes/Helm/Helm.md",
+    "DevOps/Container Orchestration/Kubernetes/Helm",
     "DevOps/Container Orchestration/Kubernetes/Kubectl/MiniKube and Kubectl Commands.md",
     "DevOps/Books/Cloud Native DevOps With Kubernetes",
     "DevOps/Books/DevOps Handbook",
     "Pasted image 20230817153729.png",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
     "DevOps/Books/Books.md",
     "DevOps/Books/Cloud Native DevOps With Kubernetes/Cloud Native DevOps With Kubernetes.md",
     "DevOps/DevOps.md",
     "DevOps/Books/DevOps Handbook/DevOps Handbook.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress/K8s Ingress.md",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress",
     "DevOps/Container Orchestration/Kubernetes/Namespaces/K8s Namespaces.md",
-    "DevOps/Container Orchestration/Kubernetes/Introduction to Kubernetes.md",
     "DevOps/Container Orchestration/Kubernetes/Components/Main k8s Components.md",
     "DevOps/Container Orchestration/Kubernetes/Kubectl",
     "DevOps/Container Orchestration/Kubernetes/Components",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/Kubernetes Architecture.md",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/example-k8s-setup.png",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/k8s.png",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture",
-    "DevOps/Container Orchestration/Kubernetes/Configuration Files/YAML Configuration For Kubernetes.md",
     "DevOps/Container Orchestration/Kubernetes/Namespaces/kubens.png",
     "DevOps/Container Orchestration/Kubernetes/Configuration Files",
     "DevOps/Container Orchestration/Kubernetes/Namespaces/sharedresources.png",
     "DevOps/Container Orchestration/Kubernetes/Namespaces",
-    "DevOps/CI CD/Deployment Strategies",
     "DevOps/CI CD/Deployment Strategies/Deployment Strategies.md",
     "DevOps/CI CD/CI CD.md",
     "README.md",
-    "DevOps/CI CD/Continuous Integration",
     "DevOps/CI CD/Continuous Integration/Continuous Integration.md",
     "DevOps/Software Engineering Practices/Software Engineering Practices.md",
-    "DevOps/System Design/Databases/Databases.md",
     "DevOps/System Design/Databases/NON-SQL/Mongo.md",
     "DevOps/Language/Language.md",
     "DevOps/Language/Python/Python Framworks/Django/Django.md",
     "DevOps/Language/Python/Python Framworks/Python Frameworks.md",
     "DevOps/Cloud Providers/AWS/AWS Services/Route 53.md",
-    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC.md",
-    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC Endpoints.md",
     "Untitled.canvas",
     "DevOps/Networking/Networking Topologies/Firewalls/ACL.png",
     "Pasted image 20230720113133.png",

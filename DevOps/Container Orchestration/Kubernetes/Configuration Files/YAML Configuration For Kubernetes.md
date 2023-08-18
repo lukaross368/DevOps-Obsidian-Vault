@@ -2,6 +2,8 @@
 
 ### Overview 
 
+Sometimes called Manifest Files, these files are used to define what K8s components you want to create in the cluster and what configuration you want them to have.
+
 - 3 main parts to the config file
 - Connecting deployments to service to pods
 - Example

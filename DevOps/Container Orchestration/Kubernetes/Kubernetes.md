@@ -1,4 +1,4 @@
-#devops #containers 
+#devops #containers #k8s 
 
 [[Introduction to Kubernetes]]
 [[Main k8s Components]]
@@ -11,3 +11,7 @@
 [[K8s Volumes]]
 [[Stateful Set Component]]
 [[K8s Services]]
+
+[[Building Kubernetes Platform as a Admin]]
+[[Using Kubernetes Platform as a Developer]]
+
