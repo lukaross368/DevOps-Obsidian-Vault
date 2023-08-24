@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stateful Set Component.md",
+                "file": "DevOps/Container Orchestration/Kubernetes/Components/Stateful Set Component.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RDS.md",
+                "file": "DevOps/Cloud Providers/AWS/AWS Services/RDS.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,14 +224,14 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "f17477d89f72d0e8",
+  "active": "0852c2d0d9b2d7be",
   "lastOpenFiles": [
-    "RDS.md",
+    "DevOps/Cloud Providers/AWS/AWS Services/RDS.md",
     "DevOps/Networking/Networking Protocols/Dynamic Routing Protocols.md",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes/K8s Volumes.md",
     "DevOps/Cloud Providers/AWS/AWS Services/S3.md",
     "DevOps/Cloud Providers/AWS/AWS Services/AWS Services.md",
-    "Stateful Set Component.md",
+    "DevOps/Container Orchestration/Kubernetes/Components/Stateful Set Component.md",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
     "DevOps/Container Orchestration/Kubernetes/Components/Main k8s Components.md",
     "DevOps/Networking/Networking Topologies/Peering.md",
