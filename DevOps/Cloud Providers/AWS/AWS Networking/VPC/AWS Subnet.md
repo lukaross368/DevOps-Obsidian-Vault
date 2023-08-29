@@ -5,7 +5,7 @@
 #subnet 
 #VPC 
 
-This page is about subnets in the context of an AWS VPC, follow this link for more general information on [subnetworks](Subnetwork).
+This page is about subnets in the context of an AWS VPC, follow this link for more general information on [subnetworks](Subnetwork.md).
 
 Each subnet must reside entirely within one [[Availability Zones]] and cannot span zones.
 

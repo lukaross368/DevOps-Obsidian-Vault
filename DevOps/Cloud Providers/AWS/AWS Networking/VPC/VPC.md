@@ -10,7 +10,7 @@ Your own Network in the cloud.
 
 Essentially acts as a Cloud Data Centre for you to deploy and host cloud services in a safe and practical way.  
 
-Say for example we have a AWS [region](Regions.md) which is made of of some [[Availability Zones]]. A VPC is the isolated network zone that spans all availability zones in a region. Now we may want to Deploy some [[EC2]] or [[RDS]] instances into our availability zones. We can also setup subnets in our VPC (see: [[AWS Subnet]]) to partition our network. A Subnet can only span 1 availability zone. 
+Say for example we have a AWS [region](Regions.md) which is made of of some [[Availability Zones]]. A VPC is the isolated network zone that spans all availability zones in a region. Now we may want to Deploy some instances into our availability zones (See [[AWS Services]]). We can also setup subnets in our VPC (see: [[AWS Subnet]]) to partition our network. A Subnet can only span 1 availability zone. 
 
 Key points: 
 

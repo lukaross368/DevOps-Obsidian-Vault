@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "733449bdaee519a6",
+        "id": "c61cb339c3f505e0",
         "type": "tabs",
         "children": [
           {
-            "id": "f17477d89f72d0e8",
+            "id": "6fb1dfc78cc5ac2c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,73 +16,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "62eea774ae84c9f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2132519dacd45d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "465f26cc46eb8f8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/Components/Stateful Set Component.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a9d8eb21ad2682e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Cloud Providers/AWS/AWS Services/AWS Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75bc12238c06b5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Cloud Providers/AWS/AWS Services/RDS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9a8e2012ea865f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes/K8s Volumes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,52 +159,52 @@
   },
   "active": "0852c2d0d9b2d7be",
   "lastOpenFiles": [
-    "DevOps/Cloud Providers/AWS/AWS Services/RDS.md",
-    "DevOps/Networking/Networking Protocols/Dynamic Routing Protocols.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes/K8s Volumes.md",
-    "DevOps/Cloud Providers/AWS/AWS Services/S3.md",
-    "DevOps/Cloud Providers/AWS/AWS Services/AWS Services.md",
-    "DevOps/Container Orchestration/Kubernetes/Components/Stateful Set Component.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes.md",
-    "DevOps/Container Orchestration/Kubernetes/Components/Main k8s Components.md",
-    "DevOps/Networking/Networking Topologies/Peering.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress/K8s Ingress.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/Kubernetes Architecture.md",
-    "DevOps/Container Orchestration/Kubernetes/Configuration Files/YAML Configuration For Kubernetes.md",
-    "DevOps/Container Orchestration/Kubernetes/Introduction to Kubernetes.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Volumes",
-    "DevOps/System Design/Databases/Databases.md",
-    "DevOps/Container Orchestration/Kubernetes/Helm/Helm.md",
-    "DevOps/Container Orchestration/Kubernetes/Helm",
-    "DevOps/Container Orchestration/Kubernetes/Kubectl/MiniKube and Kubectl Commands.md",
-    "DevOps/Books/Cloud Native DevOps With Kubernetes",
-    "DevOps/Books/DevOps Handbook",
-    "Pasted image 20230817153729.png",
-    "DevOps/Books/Books.md",
-    "DevOps/Books/Cloud Native DevOps With Kubernetes/Cloud Native DevOps With Kubernetes.md",
+    "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases/Database Services.md",
+    "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases/ElastiCache.md",
+    "DevOps/Networking/Networking Models/Internet Protocol Suite.md",
     "DevOps/DevOps.md",
-    "DevOps/Books/DevOps Handbook/DevOps Handbook.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Ingress",
-    "DevOps/Container Orchestration/Kubernetes/Namespaces/K8s Namespaces.md",
-    "DevOps/Container Orchestration/Kubernetes/Kubectl",
-    "DevOps/Container Orchestration/Kubernetes/Components",
+    "DevOps/System Design/System Design.md",
+    "DevOps/System Design/Caching/Caching.md",
+    "DevOps/System Design/Caching/Untitled.md",
+    "DevOps/Cloud Providers/AWS/AWS Managed Services/AWS Services.md",
+    "DevOps/Cloud Providers/AWS/AWS Containers/Containers In AWS.md",
+    "Container Services.md",
+    "DevOps/Cloud Providers/AWS/AWS.md",
+    "DevOps/Cloud Providers/AWS/AWS Networking/Networking in AWS.md",
+    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC.md",
+    "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases/Aurora.md",
+    "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases",
+    "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases/aurora_db.png",
+    "Pasted image 20230829114223.png",
+    "[RDS.md",
+    "DevOps/Domain Knowledge/Apollo/User Journeys",
+    "DevOps/Domain Knowledge/Apollo/Product Features",
+    "DevOps/Domain Knowledge/Apollo/Web Scraper",
+    "DevOps/Domain Knowledge/Apollo/Infrastructure",
+    "DevOps/Domain Knowledge/Apollo/Security",
+    "DevOps/Domain Knowledge/Apollo/Logging and Monitoring",
+    "DevOps/Domain Knowledge/Apollo/Messaging",
+    "DevOps/Domain Knowledge/Apollo/Testing",
+    "DevOps/Domain Knowledge/Apollo/Development Lifecycle",
+    "DevOps/Cloud Providers/AWS/AWS Containers/ECS/Elastic Container Service.md",
+    "DevOps/Cloud Providers/AWS/AWS Containers/Fargate.md",
+    "DevOps/Containers/Containers.md",
+    "DevOps/Container Orchestration/Container Orchestration.md",
+    "DevOps/Networking/Networking.md",
+    "DevOps/Networking/Networking Components/Networking Components.md",
+    "DevOps/Networking/Networking Models/Networking Models.md",
+    "DevOps/Networking/Networking Configurations/Networking Configurations.md",
+    "DevOps/Networking/Networking Protocols/Network Protocols.md",
+    "DevOps/Networking/Networking Protocols/IP/IP.md",
+    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/AWS Subnet.md",
+    "DevOps/Container Orchestration/Kubernetes/Services/multiPortIP.png",
+    "Pasted image 20230817153729.png",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/example-k8s-setup.png",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/k8s.png",
-    "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture",
     "DevOps/Container Orchestration/Kubernetes/Namespaces/kubens.png",
-    "DevOps/Container Orchestration/Kubernetes/Configuration Files",
     "DevOps/Container Orchestration/Kubernetes/Namespaces/sharedresources.png",
-    "DevOps/Container Orchestration/Kubernetes/Namespaces",
-    "DevOps/CI CD/Deployment Strategies/Deployment Strategies.md",
-    "DevOps/CI CD/CI CD.md",
-    "README.md",
-    "DevOps/CI CD/Continuous Integration/Continuous Integration.md",
-    "DevOps/Software Engineering Practices/Software Engineering Practices.md",
     "Untitled.canvas",
-    "DevOps/Networking/Networking Topologies/Firewalls/ACL.png",
-    "Pasted image 20230720113133.png",
-    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/NACL/NACL example.png",
-    "DevOps/Networking/Networking Protocols/IP/IP addresses/IPV4/InternalIPClasses.png",
-    "DevOps/Networking/Networking Protocols/IP/IP addresses/IPV4/PublicVsPrivateIP-003.png"
+    "DevOps/Networking/Networking Configurations/Firewalls/ACL.png",
+    "Pasted image 20230720113133.png"
   ]
 }

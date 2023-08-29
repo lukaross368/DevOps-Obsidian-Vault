@@ -2,17 +2,16 @@
 #cloud 
 #AWS
 
-Helpful docs:
+Helpful docs And general AWS Concepts:
 [[AWS CLI]]
-
-Services and concepts:
-
-[[AWS Services]]
-[[Regions]]
-[[Availability Zones]]
-[[Local Zones]]
-[[VPC]]
 [[IAM]]
 
-Other links:
-[[AWS Certifications]]
+Managed Services:
+[[AWS Services]]
+
+Networking Concepts:
+[[Networking in AWS]]
+
+Running Containers in AWS:
+[[Containers In AWS]]
+
