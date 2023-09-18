@@ -13,4 +13,10 @@ Terraform is an open-source infrastructure as code (IAC) tool developed by Hashi
 
 It allows you to define and manage your infrastructure resources in a declarative manner, treating infrastructure components as code that can be versioned, shared, and managed collaboratively.
 
-### Useful commands 
+For a complete view see the Docs: https://developer.hashicorp.com/terraform/docs
+
+Instead of making notes learn by doing 
+
+[[Terraform Practice Projects]]
+
+

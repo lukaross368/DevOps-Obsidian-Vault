@@ -1,5 +1,5 @@
 #devops 
 #security
 
-[[Secret Managment]]
+[[Secret Management]]
 

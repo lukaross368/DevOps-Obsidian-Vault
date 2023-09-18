@@ -8,3 +8,6 @@
 
 ### Graphical 
 
+### In-Memory
+
+[[Redis]]

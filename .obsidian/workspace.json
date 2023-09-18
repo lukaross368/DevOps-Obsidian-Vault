@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c61cb339c3f505e0",
+        "id": "8818385bf0cce01c",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb1dfc78cc5ac2c",
+            "id": "f15766764e816180",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/System Design/Caching/Caching.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps/System Design/Caching/Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps/System Design/Caching/Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps/System Design/Caching/Caching.md"
+              }
+            }
+          },
+          {
+            "id": "9058987346595987",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -159,6 +177,27 @@
   },
   "active": "0852c2d0d9b2d7be",
   "lastOpenFiles": [
+    "DevOps/System Design/Caching/Caching.png",
+    "DevOps/System Design/Databases/NON-SQL/Mongo.md",
+    "DevOps/Language/Python/Python Framworks/Python Frameworks.md",
+    "DevOps/Language/Python/Python Framworks/Prefect.md",
+    "DevOps/Cloud Providers/AWS/AWS Monitoring/Monitoring In AWS.md",
+    "DevOps/Cloud Providers/AWS/AWS Monitoring/Amazon CloudWatch.md",
+    "DevOps/Cloud Providers/AWS/AWS.md",
+    "DevOps/Infrastructure as a code/Terraform/Terraform.md",
+    "DevOps/Cloud Providers/AWS/AWS Monitoring",
+    "DevOps/Cloud Providers/AWS/AWS Managed Services/AWS Services.md",
+    "DevOps/Infrastructure as a code/Terraform/Terraform Practice Projects.md",
+    "DevOps/Monitoring/Monitoring.md",
+    "DevOps/Software Engineering Practices/Dynaconf.md",
+    "DevOps/Security/Security.md",
+    "DevOps/Security/Secret Management.md",
+    "DevOps/Software Engineering Practices/Software Engineering Practices.md",
+    "DevOps/Software Engineering Practices/Configuration Management.md",
+    "DevOps/System Design/Databases/In-Memory/Redis.md",
+    "DevOps/System Design/Databases/Databases.md",
+    "DevOps/System Design/Databases/In-Memory/Untitled",
+    "DevOps/System Design/Databases/In-Memory",
     "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases/Database Services.md",
     "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases/ElastiCache.md",
     "DevOps/Networking/Networking Models/Internet Protocol Suite.md",
@@ -166,37 +205,16 @@
     "DevOps/System Design/System Design.md",
     "DevOps/System Design/Caching/Caching.md",
     "DevOps/System Design/Caching/Untitled.md",
-    "DevOps/Cloud Providers/AWS/AWS Managed Services/AWS Services.md",
     "DevOps/Cloud Providers/AWS/AWS Containers/Containers In AWS.md",
-    "Container Services.md",
-    "DevOps/Cloud Providers/AWS/AWS.md",
-    "DevOps/Cloud Providers/AWS/AWS Networking/Networking in AWS.md",
-    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/VPC.md",
-    "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases/Aurora.md",
     "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases",
     "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases/aurora_db.png",
     "Pasted image 20230829114223.png",
-    "[RDS.md",
     "DevOps/Domain Knowledge/Apollo/User Journeys",
     "DevOps/Domain Knowledge/Apollo/Product Features",
     "DevOps/Domain Knowledge/Apollo/Web Scraper",
     "DevOps/Domain Knowledge/Apollo/Infrastructure",
     "DevOps/Domain Knowledge/Apollo/Security",
     "DevOps/Domain Knowledge/Apollo/Logging and Monitoring",
-    "DevOps/Domain Knowledge/Apollo/Messaging",
-    "DevOps/Domain Knowledge/Apollo/Testing",
-    "DevOps/Domain Knowledge/Apollo/Development Lifecycle",
-    "DevOps/Cloud Providers/AWS/AWS Containers/ECS/Elastic Container Service.md",
-    "DevOps/Cloud Providers/AWS/AWS Containers/Fargate.md",
-    "DevOps/Containers/Containers.md",
-    "DevOps/Container Orchestration/Container Orchestration.md",
-    "DevOps/Networking/Networking.md",
-    "DevOps/Networking/Networking Components/Networking Components.md",
-    "DevOps/Networking/Networking Models/Networking Models.md",
-    "DevOps/Networking/Networking Configurations/Networking Configurations.md",
-    "DevOps/Networking/Networking Protocols/Network Protocols.md",
-    "DevOps/Networking/Networking Protocols/IP/IP.md",
-    "DevOps/Cloud Providers/AWS/AWS Networking/VPC/AWS Subnet.md",
     "DevOps/Container Orchestration/Kubernetes/Services/multiPortIP.png",
     "Pasted image 20230817153729.png",
     "DevOps/Container Orchestration/Kubernetes/Kubernetes Architecture/example-k8s-setup.png",
