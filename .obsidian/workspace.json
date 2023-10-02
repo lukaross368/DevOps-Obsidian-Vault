@@ -11,12 +11,8 @@
             "id": "f15766764e816180",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/System Design/Caching/Caching.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 200
   },
   "right": {
     "id": "b15dde706ef75510",
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/System Design/Caching/Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/System Design/Caching/Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DevOps/System Design/Caching/Caching.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +167,9 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0852c2d0d9b2d7be",
+  "active": "f15766764e816180",
   "lastOpenFiles": [
+    "DevOps/System Design/Caching/Caching.md",
     "DevOps/System Design/Caching/Caching.png",
     "DevOps/System Design/Databases/NON-SQL/Mongo.md",
     "DevOps/Language/Python/Python Framworks/Python Frameworks.md",
@@ -203,7 +196,6 @@
     "DevOps/Networking/Networking Models/Internet Protocol Suite.md",
     "DevOps/DevOps.md",
     "DevOps/System Design/System Design.md",
-    "DevOps/System Design/Caching/Caching.md",
     "DevOps/System Design/Caching/Untitled.md",
     "DevOps/Cloud Providers/AWS/AWS Containers/Containers In AWS.md",
     "DevOps/Cloud Providers/AWS/AWS Managed Services/Databases",
@@ -222,7 +214,6 @@
     "DevOps/Container Orchestration/Kubernetes/Namespaces/kubens.png",
     "DevOps/Container Orchestration/Kubernetes/Namespaces/sharedresources.png",
     "Untitled.canvas",
-    "DevOps/Networking/Networking Configurations/Firewalls/ACL.png",
-    "Pasted image 20230720113133.png"
+    "DevOps/Networking/Networking Configurations/Firewalls/ACL.png"
   ]
 }
